@@ -12,7 +12,7 @@ zum 22.02.2022, 16:30
 2-er Teams (2)
 
 #### Szenario:
-Sie sind konkurrierende Freelancing Software-Anbieter, die sich beide auf das unten ausgeschriebene Projekt anhand eines Prototypen bewerben. Nur ein Team bekommt die Zusage.
+Sie sind konkurrierende Freelancing Software-Anbieter, die sich auf dasselbe unten ausgeschriebene Projekt anhand eines Prototypen bewerben. Nur ein Team bekommt die Zusage.  
 Programmieren Sie innerhalb Ihres zugewiesenen Team und Zeitrahmen den Prototyp und bereiten Sie eine Präsentation Ihres Prototypens vor (Zielgruppe: Der potentielle Kunde).
 
 ---
